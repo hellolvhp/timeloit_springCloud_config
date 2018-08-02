@@ -2,4 +2,4 @@ server:
   port: 8400
 zuul:
   routes:
-    workflow: /w/**
+    feign: /f/**
